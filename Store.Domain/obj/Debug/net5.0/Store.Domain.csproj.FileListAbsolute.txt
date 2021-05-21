@@ -1,0 +1,12 @@
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\bin\Debug\net5.0\Store.Domain.deps.json
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\bin\Debug\net5.0\Store.Domain.dll
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\bin\Debug\net5.0\ref\Store.Domain.dll
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\bin\Debug\net5.0\Store.Domain.pdb
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.csprojAssemblyReference.cache
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.AssemblyInfoInputs.cache
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.AssemblyInfo.cs
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.csproj.CoreCompileInputs.cache
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.dll
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\obj\Debug\net5.0\ref\Store.Domain.dll
+D:\TrampoWill\Studies\CursoC#\7182 - Refatorando para testes de unidade\Meu Projeto\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.pdb
